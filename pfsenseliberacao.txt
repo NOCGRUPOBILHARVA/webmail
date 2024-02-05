@@ -1,2 +1,4 @@
 hostgator.com.br
 br98.hostgator.com.br
+hostgator.com.br
+https://br98.hostgator.com.br
